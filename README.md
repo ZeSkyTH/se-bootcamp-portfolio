@@ -8,12 +8,12 @@
 
 | รายการ | ข้อมูลของฉัน |
 |---|---|
-| Name | |
-| Nickname | |
+| Name | นายวิทวัส สะมะแอ |
+| Nickname | แบงค์ |
 | Program | Software Engineering, RMUTL |
-| Background | |
+| Background | สาขา วิศวกรรมซอฟต์แวร์ |
 | Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
-| Goal | |
+| Goal | พัฒนาตนเองให้เป็นวิศวกรซอฟต์แวร์ที่มีคุณภาพ สร้างสรรค์เทคโนโลยีที่เป็นประโยชน์ และไม่หยุดเรียนรู้เพื่อก้าวทันการเปลี่ยนแปลงของโลกดิจิทัล |
 
 ---
 
@@ -25,25 +25,34 @@
 ## 📚 What I Learned
 
 ### Day 01: Digital Foundation
-- 
+- เรียนรู้พื้นฐานด้านดิจิทัลและการคิดเชิงตรรกะ
+- เข้าใจบทบาทของซอฟต์แวร์และการทำงานของคอมพิวเตอร์
 
 ### Day 02: Logic & Flowgorithm Lab 1
-- 
+- เรียนรู้การใช้ Flowgorithm
+- ฝึกการใช้ตัวแปร การรับข้อมูล และการแสดงผล
+- เข้าใจการทำงานของเงื่อนไข (If-Else)
 
-### Day 03: Flowgorithm Lab 2–3
-- 
+##Day 03: Flowgorithm Lab 2–3
+- ฝึกการใช้ Loop เช่น For, While และ Do-While
+- สร้างโปรแกรมคำนวณและแก้ปัญหาด้วยผังงาน
+- พัฒนาการคิดเป็นลำดับขั้นตอน
 
 ### Day 04: AI, Web Technology and Network
-- 
+- เรียนรู้การใช้ AI เป็นผู้ช่วยในการเรียน
+- เข้าใจพื้นฐานของเว็บไซต์และระบบเครือข่าย
+- รู้จักการทำงานของ Internet และ Web Technology
 
 ### Day 05: GitHub and Developer Tools
-- 
+- เรียนรู้การใช้งาน Git และ GitHub
+- ฝึกการ Commit และ Push โค้ดขึ้น Repository
+- เรียนรู้การเขียน README ด้วย Markdown
 
 ---
 
 ## 🧪 My Flowgorithm Labs
 
-| Lab | What I Learned | Status |
+| Lab | What I LeaCalculatortus |
 |---|---|---|
 | Pass / Fail | | ☐ |
 | Grade Calculator | | ☐ |
