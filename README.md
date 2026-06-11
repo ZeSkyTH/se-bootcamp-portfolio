@@ -93,11 +93,11 @@
 
 | Tool | Used for | Confidence |
 |---|---|---|
-| VS Code | แก้ไข README.md | ⭐ |
-| Command Prompt | ใช้ Git command | ⭐ |
-| Git | บันทึก commit | ⭐ |
-| GitHub | แสดง portfolio ออนไลน์ | ⭐ |
-| Markdown | จัดรูปแบบ README | ⭐ |
+| VS Code | แก้ไข README.md | ⭐⭐⭐⭐ |
+| Command Prompt | ใช้ Git command | ⭐⭐⭐⭐ |
+| Git | บันทึก commit | ⭐⭐⭐⭐ |
+| GitHub | แสดง portfolio ออนไลน์ | ⭐⭐⭐⭐ |
+| Markdown | จัดรูปแบบ README | ⭐⭐⭐⭐ |
 
 ---
 
