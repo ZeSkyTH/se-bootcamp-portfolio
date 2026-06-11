@@ -50,29 +50,15 @@
 
 ---
 
-Lab	What I Learned	Status
-Pass / Fail		✅
-Grade Calculator		✅
-Average Score		✅
-Loop Practice		✅
-
 ## 🧪 My Flowgorithm Labs
- Lab                                        Pass / Fail 
-Grade Calculator
-Average Score
-Loop Practice
 
-What | Learned 
-1.การใช้เงื่อนไขเพื่อตัดสินผลผ่านหรือไม่ผ่าน
-2.การใช้เงื่อนไขหลายระดับเพื่อคำนวณเกรด
-3.การคำนวณค่าเฉลี่ยและการใช้ตัวแปร
-4.การใช้ For, While และ Do-While Loop
+| Lab | What I Learned | Status |
+|------|----------------|--------|
+| Pass / Fail | การใช้เงื่อนไข (If-Else) เพื่อตัดสินผลผ่านหรือไม่ผ่าน | ✅ |
+| Grade Calculator | การใช้เงื่อนไขหลายระดับในการคำนวณเกรด | ✅ |
+| Average Score | การคำนวณค่าเฉลี่ยและการใช้ตัวแปร | ✅ |
+| Loop Practice | การใช้ For, While และ Do-While Loop | ✅ |
 
-Status
-☑
-☑
-☑
-☑
 
 ---
 
