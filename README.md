@@ -10,7 +10,7 @@
 |---|---|
 | Name | Withawat Sama-AE |
 | Nickname | Bank |
-| Program | Software Engineering, RMUTL |
+| Program | Software เข้าใจพื้นฐานของเว็บไซต์และระบบเครือข่ายานของเว็บไซต์และระบบเครือข่าย, RMUTL |
 | Background | จบการศึกษาที่ วิทยาลัยเทคนิคอุตรดิตถ์ |
 | Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
 | Goal | พัฒนาตนเองให้เป็นวิศวกรซอฟต์แวร์ที่มีคุณภาพ สร้างสรรค์เทคโนโลยีที่เป็นประโยชน์ และไม่หยุดเรียนรู้เพื่อก้าวทันการเปลี่ยนแปลงของโลกดิจิทัล |
@@ -39,13 +39,11 @@
 
 ### Day 04: AI, Web Technology and Network
 - เรียนรู้การใช้ AI เป็นผู้ช่วยในการเรียน
-- เข้าใจพื้นฐานของเว็บไซต์และระบบเครือข่าย
-- รู้จักการทำงานของ Internet และ Web Technology
-
-### Day 05: GitHub and Developer Tools
 - เรียนรู้การใช้งาน Git และ GitHub
 - ฝึกการ Commit และ Push โค้ดขึ้น Repository
-- เรียนรู้การเขียน README ด้วย Markdown
+
+### Day 05: GitHub and Developer Tools
+- 
 
 ---
 
