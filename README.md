@@ -140,5 +140,6 @@ Status
 ## 🔗 Repository Link
 
 ```https://github.com/ZeSkyTH/se-bootcamp-portfolio
-https://github.com/USERNAME/se-bootcamp-portfolio
+[https://github.com/USERNAME/se-bootcamp-portfolio]
+(https://github.com/ZeSkyTH/se-bootcamp-portfolio)
 ```
