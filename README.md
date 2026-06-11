@@ -50,14 +50,11 @@
 
 ---
 
-🧪 My Flowgorithm Labs
-
 Lab	What I Learned	Status
-
-Pass / Fail		☐
-Grade Calculator		☐
-Average Score		☐
-Loop Practice		☐
+Pass / Fail		✅
+Grade Calculator		✅
+Average Score		✅
+Loop Practice		✅
 
 ## 🧪 My Flowgorithm Labs
  Lab                                        Pass / Fail 
