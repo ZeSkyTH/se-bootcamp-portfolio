@@ -51,13 +51,22 @@
 ---
 
 ## 🧪 My Flowgorithm Labs
+ Lab                                        Pass / Fail 
+Grade Calculator
+Average Score
+Loop Practice
 
-| Lab | What I LeaCalculatortus |
-|---|---|---|
-| Pass / Fail | | ☐ |
-| Grade Calculator | | ☐ |
-| Average Score | | ☐ |
-| Loop Practice | | ☐ |
+What | Learned 
+การใช้เงื่อนไขเพื่อตัดสินผลผ่านหรือไม่ผ่าน
+การใช้เงื่อนไขหลายระดับเพื่อคำนวณเกรด
+การคำนวณค่าเฉลี่ยและการใช้ตัวแปร
+การใช้ For, While และ Do-While Loop
+
+Status
+☑
+☑
+☑
+☑
 
 ---
 
