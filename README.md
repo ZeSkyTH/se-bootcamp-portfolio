@@ -141,5 +141,5 @@ Status
 
 ```https://github.com/ZeSkyTH/se-bootcamp-portfolio
 
-[https://github.com/ZeSkyTH/se-bootcamp-portfolio]
+(https://github.com/ZeSkyTH/se-bootcamp-portfolio)
 ```
